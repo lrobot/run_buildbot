@@ -1,0 +1,11 @@
+.env
+*.env
+twistd.pid
+*.log
+/core
+/buildbot.tac
+/gitpoller-workdir/
+
+
+
+
